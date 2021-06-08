@@ -1,6 +1,6 @@
 ![Welcome](/cover.png?raw=true)
 
-# Projeto feito no Django para administração de um Lava-Jato
+# Projeto feito utilizando o framework Dash para confecção de um Dashboard interativo sobre a venda de bebidas na Russia
 
 
 PROJETO :point_right: <https://github.com/vinicius-mattoso/Dashboard>
